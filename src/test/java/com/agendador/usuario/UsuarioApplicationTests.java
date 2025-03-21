@@ -1,4 +1,4 @@
-package com.agendardor.usuario;
+package com.agendador.usuario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
