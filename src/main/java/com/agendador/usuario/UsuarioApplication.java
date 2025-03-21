@@ -1,4 +1,4 @@
-package com.agendardor.usuario;
+package com.agendador.usuario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
